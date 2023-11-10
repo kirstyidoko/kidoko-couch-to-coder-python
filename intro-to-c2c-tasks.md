@@ -16,3 +16,6 @@ This task makes use of dictionaries, lists, if/else statements and for loops to 
 
 ## uk_volkwagen.py
 This code analyses and visualises data from a database of Volkswagen vehicles purchased in the UK between 2000 and 2020.
+
+## pie_bar_ext
+Contains the bar and pie charts created for the extension tasks in "uk_volkswagen.py".
